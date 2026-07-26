@@ -2,4 +2,4 @@ train: 'C:\Users\DZ Laptops\Desktop\first-YOLO-project\train'
 
 val: 'C:\Users\DZ Laptops\Desktop\first-YOLO-project\val'
 nc: 2
-names: ["COCACOLA","PESPI"]
+names: ["COCACOLA","PEPSI"]

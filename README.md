@@ -14,7 +14,7 @@ YOLO11n fine-tuned model for detecting Coca-Cola and Pepsi cans.
 | Class | mAP50 | mAP50-95 |
 |-------|-------|----------|
 | COCACOLA | 99.5% | 83.6% |
-| PESPI | 78.7% | 44.6% |
+| PEPSI | 78.7% | 44.6% |
 
 ## 🚀 Installation
 
