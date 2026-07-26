@@ -93,6 +93,3 @@ model.export(format="onnx")
 - opencv-python
 - yt-dlp (for YouTube video detection)
 
-## 📝 License
-
-MIT
