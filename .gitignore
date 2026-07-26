@@ -1,0 +1,7 @@
+best.pt
+video.mp4
+env-label-studio/
+runs/
+__pycache__/
+*.pyc
+.DS_Store
