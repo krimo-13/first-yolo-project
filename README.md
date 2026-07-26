@@ -56,6 +56,8 @@ cv2.destroyAllWindows()
 
 ## 🏋️ Training
 
+> The published `best.pt` was trained on Google Colab (GPU, 200 epochs). `train.py` in this repo is a lighter local/CPU config for quick iteration.
+
 ```python
 from ultralytics import YOLO
 
